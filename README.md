@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ASC2B/ASC-DevOps/_apis/build/status%2Fazdo-asc1a-DevOps-java-pipe?branchName=main)](https://dev.azure.com/ASC2B/ASC-DevOps/_build/latest?definitionId=259&branchName=main)
 
 # Contributing
 
